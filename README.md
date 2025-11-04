@@ -1,6 +1,6 @@
-<h1 align="center">🌍 Maps Geográficos</h1>
+<h1 align="center"> Maps Geográficos</h1>
 
-<h2 align="center">📱 Telas do Aplicativo</h2>
+<h2 align="center"> Telas do Aplicativo</h2>
 
 <p align="center">
    <img width="270" height="820" alt="image" src="https://github.com/user-attachments/assets/11e6c471-3fbe-434e-bda1-92de71e8946e" />
@@ -38,7 +38,7 @@ Expo Go, um ambiente limitado para testar o desenvolvimento com Expo.
 Você pode começar a desenvolver editando os arquivos dentro do diretório app.
 Este projeto utiliza roteamento baseado em arquivos.
 
-🧩 Obter um projeto limpo
+<h1>Obter um projeto limpo</h1> 
 Quando estiver pronto, execute:
 
 bash
@@ -47,14 +47,14 @@ npm run reset-project
 Esse comando moverá o código inicial para o diretório app-example
 e criará um app vazio, pronto para o seu desenvolvimento.
 
-📚 Saiba mais
+ <h1>Saiba mais</h1>
 Para aprender mais sobre o desenvolvimento do seu projeto com Expo, consulte os seguintes recursos:
 
 Documentação do Expo: Aprenda os fundamentos ou explore tópicos avançados com nossos guias.
 
 Tutorial do Expo: Siga um passo a passo para criar um projeto que roda no Android, iOS e Web.
 
-🌎 Participe da comunidade
+<h1>Participe da comunidade</h1> 
 Junte-se à comunidade de desenvolvedores que criam aplicativos universais com Expo:
 
 Expo no GitHub: Veja nossa plataforma open-source e contribua.
