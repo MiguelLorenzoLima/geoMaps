@@ -1,50 +1,63 @@
-# Welcome to your Expo app 👋
+<h1 align="center">Maps Geográficos</h1>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center">
+Projeto desenvolvido com <b>React Native</b> + <b>Expo</b>, utilizando roteamento baseado em arquivos.<br/>
+Siga as instruções abaixo para configurar e iniciar o aplicativo.
+</p>
 
-## Get started
+---
 
-1. Install dependencies
+1. **Instalar dependências**
 
    ```bash
    npm install
-   ```
+Iniciar o aplicativo
 
-2. Start the app
+bash
+Copiar código
+npx expo start
+No terminal, você encontrará opções para abrir o app em:
 
-   ```bash
-   npx expo start
-   ```
+Build de desenvolvimento
 
-In the output, you'll find options to open the app in a
+Emulador Android
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Simulador iOS
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Expo Go, um ambiente limitado para testar o desenvolvimento com Expo.
 
-## Get a fresh project
+Você pode começar a desenvolver editando os arquivos dentro do diretório app.
+Este projeto utiliza roteamento baseado em arquivos.
 
-When you're ready, run:
+🧩 Obter um projeto limpo
+Quando estiver pronto, execute:
 
-```bash
+bash
+Copiar código
 npm run reset-project
-```
+Esse comando moverá o código inicial para o diretório app-example
+e criará um app vazio, pronto para o seu desenvolvimento.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+📚 Saiba mais
+Para aprender mais sobre o desenvolvimento do seu projeto com Expo, consulte os seguintes recursos:
 
-## Learn more
+Documentação do Expo: Aprenda os fundamentos ou explore tópicos avançados com nossos guias.
 
-To learn more about developing your project with Expo, look at the following resources:
+Tutorial do Expo: Siga um passo a passo para criar um projeto que roda no Android, iOS e Web.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+🌎 Participe da comunidade
+Junte-se à comunidade de desenvolvedores que criam aplicativos universais com Expo:
 
-## Join the community
+Expo no GitHub: Veja nossa plataforma open-source e contribua.
 
-Join our community of developers creating universal apps.
+Comunidade no Discord: Converse com outros usuários e tire suas dúvidas.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<h2 align="center">🗺️ Comparativo entre APIs de Mapas</h2>
+Critério	Leaflet / OpenStreetMap (OSM)	Google Maps API
+💰 Custo-benefício	Gratuito e open source. Sem limites de requisições e ideal para projetos pessoais e startups.	Pago por uso. Oferece crédito mensal gratuito, mas cobra por requisições após o limite.
+⚙️ Facilidade de integração	Requer configuração manual de camadas e serviços externos (ex: Nominatim para geocodificação). Maior liberdade, mas mais trabalho.	Integração rápida com SDKs e documentação oficial. Facilidade e estabilidade no uso.
+🧩 Integração com Supabase	Exige implementação manual das coordenadas e funções SQL geográficas. Boa compatibilidade, mas demanda código extra.	Integra bem via REST/JS SDK. Simples armazenar e consultar coordenadas, mas custo por requisições pode ser um desafio.
+📍 GPS e Geolocalização	Usa APIs do dispositivo (ex: Expo Location). Necessita de serviços externos para rotas e direções.	Suporte completo a geolocalização, rotas, tráfego e lugares — tudo integrado no ecossistema Google.
+⚡ Performance em Apps Reais	Leve, rápido e ótimo para apps simples e mapas estáticos. Carregamento ágil mesmo em dispositivos modestos.	Mais pesado, mas extremamente otimizado. Ideal para apps complexos e com grande volume de dados.
+
+<p align="center"> Desenvolvido com ❤️ usando <b>React Native</b> + <b>Expo</b> </p> ```
