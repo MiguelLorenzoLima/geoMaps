@@ -3,9 +3,9 @@
 <h2 align="center">📱 Telas do Aplicativo</h2>
 
 <p align="center">
-   <img width="370" height="820" alt="image" src="https://github.com/user-attachments/assets/11e6c471-3fbe-434e-bda1-92de71e8946e" />
-   <img width="370" height="820" alt="image" src="https://github.com/user-attachments/assets/0e5e371e-512f-4565-9421-bba5c1682cc7" />
-   <img width="370" height="820" alt="image" src="https://github.com/user-attachments/assets/c9a28b37-7e09-42be-a827-9c6ff6183acb" />
+   <img width="270" height="820" alt="image" src="https://github.com/user-attachments/assets/11e6c471-3fbe-434e-bda1-92de71e8946e" />
+   <img width="270" height="820" alt="image" src="https://github.com/user-attachments/assets/0e5e371e-512f-4565-9421-bba5c1682cc7" />
+   <img width="270" height="820" alt="image" src="https://github.com/user-attachments/assets/c9a28b37-7e09-42be-a827-9c6ff6183acb" />
 </p>
 
 
