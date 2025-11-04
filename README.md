@@ -54,12 +54,6 @@ Documentação do Expo: Aprenda os fundamentos ou explore tópicos avançados co
 
 Tutorial do Expo: Siga um passo a passo para criar um projeto que roda no Android, iOS e Web.
 
-<h1>Participe da comunidade</h1> 
-Junte-se à comunidade de desenvolvedores que criam aplicativos universais com Expo:
-
-Expo no GitHub: Veja nossa plataforma open-source e contribua.
-
-Comunidade no Discord: Converse com outros usuários e tire suas dúvidas.
 
 <h2 align="center">🗺️ Comparativo entre APIs de Mapas</h2>
 <img width="1216" height="556" alt="image" src="https://github.com/user-attachments/assets/13face52-9218-409b-8569-12ef761978e2" />
