@@ -53,11 +53,4 @@ Expo no GitHub: Veja nossa plataforma open-source e contribua.
 Comunidade no Discord: Converse com outros usuários e tire suas dúvidas.
 
 <h2 align="center">🗺️ Comparativo entre APIs de Mapas</h2>
-Critério	Leaflet / OpenStreetMap (OSM)	Google Maps API
-💰 Custo-benefício	Gratuito e open source. Sem limites de requisições e ideal para projetos pessoais e startups.	Pago por uso. Oferece crédito mensal gratuito, mas cobra por requisições após o limite.
-⚙️ Facilidade de integração	Requer configuração manual de camadas e serviços externos (ex: Nominatim para geocodificação). Maior liberdade, mas mais trabalho.	Integração rápida com SDKs e documentação oficial. Facilidade e estabilidade no uso.
-🧩 Integração com Supabase	Exige implementação manual das coordenadas e funções SQL geográficas. Boa compatibilidade, mas demanda código extra.	Integra bem via REST/JS SDK. Simples armazenar e consultar coordenadas, mas custo por requisições pode ser um desafio.
-📍 GPS e Geolocalização	Usa APIs do dispositivo (ex: Expo Location). Necessita de serviços externos para rotas e direções.	Suporte completo a geolocalização, rotas, tráfego e lugares — tudo integrado no ecossistema Google.
-⚡ Performance em Apps Reais	Leve, rápido e ótimo para apps simples e mapas estáticos. Carregamento ágil mesmo em dispositivos modestos.	Mais pesado, mas extremamente otimizado. Ideal para apps complexos e com grande volume de dados.
-
-<p align="center"> Desenvolvido com ❤️ usando <b>React Native</b> + <b>Expo</b> </p> ```
+<img width="1216" height="556" alt="image" src="https://github.com/user-attachments/assets/13face52-9218-409b-8569-12ef761978e2" />
