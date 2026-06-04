@@ -14,32 +14,6 @@ Projeto desenvolvido com <b>React Native</b> + <b>Expo</b>, utilizando roteament
 Siga as instruções abaixo para configurar e iniciar o aplicativo.
 
 
-Build de desenvolvimento
-
-Emulador Android
-
-Simulador iOS
-
-Expo Go, um ambiente limitado para testar o desenvolvimento com Expo.
-
-Você pode começar a desenvolver editando os arquivos dentro do diretório app.
-Este projeto utiliza roteamento baseado em arquivos.
-
-<h1>Obter um projeto limpo</h1> 
-Quando estiver pronto, execute:
-
-bash
-Copiar código
-npm run reset-project
-Esse comando moverá o código inicial para o diretório app-example
-e criará um app vazio, pronto para o seu desenvolvimento.
-
- <h1>Saiba mais</h1>
-Para aprender mais sobre o desenvolvimento do seu projeto com Expo, consulte os seguintes recursos:
-
-Documentação do Expo: Aprenda os fundamentos ou explore tópicos avançados com nossos guias.
-
-Tutorial do Expo: Siga um passo a passo para criar um projeto que roda no Android, iOS e Web.
 
 
 <h2 align="center">🗺️ Comparativo entre APIs de Mapas</h2>
