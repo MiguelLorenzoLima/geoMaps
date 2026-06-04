@@ -8,12 +8,9 @@
    <img width="270" height="820" alt="image" src="https://github.com/user-attachments/assets/c9a28b37-7e09-42be-a827-9c6ff6183acb" />
 </p>
 
-
 <p align="center">
 Projeto desenvolvido com <b>React Native</b> + <b>Expo</b>, utilizando roteamento baseado em arquivos.<br/>
 Siga as instruções abaixo para configurar e iniciar o aplicativo.
-
-
 
 
 <h2 align="center">🗺️ Comparativo entre APIs de Mapas</h2>
