@@ -12,20 +12,7 @@
 <p align="center">
 Projeto desenvolvido com <b>React Native</b> + <b>Expo</b>, utilizando roteamento baseado em arquivos.<br/>
 Siga as instruções abaixo para configurar e iniciar o aplicativo.
-</p>
 
----
-
-1. **Instalar dependências**
-
-   ```bash
-   npm install
-Iniciar o aplicativo
-
-bash
-Copiar código
-npx expo start
-No terminal, você encontrará opções para abrir o app em:
 
 Build de desenvolvimento
 
